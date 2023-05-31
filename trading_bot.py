@@ -6,8 +6,8 @@ from tkinter import *
 
 # Setup your account details
 
-key_id = "kuq3ngczrd756"
-key_secret = "4MlHhaNBigTevC1SrR8KkMVXK7iu1q0e07QB5697eFo"
+key_id = ""
+key_secret = ""
 
 # Creates a new client
 
